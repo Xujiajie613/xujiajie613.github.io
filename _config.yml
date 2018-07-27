@@ -1,10 +1,10 @@
 # Site settings
-title: XuJiajie Blog
-SEOTitle: 胥加洁的博客 | XuJJ Blog
+title: Alex Blog
+SEOTitle: Alex的博客 | Alex Blog
 header-img: img/post-bg-desk.jpg
 email: Xujiajie613@163.com
 description: "还未结束，莫停蹄！"
-keyword: "XuJiajie, XuJiajie Blog, 胥加洁的博客, xujiajie, 胥加洁, iOS, Apple, iPhone"
+keyword: "Alex, Alex Blog, 胥加洁的博客, xujiajie, 胥加洁, iOS, Apple, iPhone"
 url: "http://xujiajie613.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Xujiajie613/xujiajie613.github.io.git" # you code repository
